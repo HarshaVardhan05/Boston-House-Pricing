@@ -57,7 +57,6 @@ Boston house prices dataset
    
    
    
-   
         
   Concatinating features and target to get a better view.
   
